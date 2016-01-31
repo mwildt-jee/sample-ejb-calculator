@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="sample-ejb-calculator">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="sample-ejb-calculatorWeb.war" deploy-path="/" handle="module:/resource/sample-ejb-calculatorWeb/sample-ejb-calculatorWeb">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="sample-ejb-calculatorEJB.jar" deploy-path="/" handle="module:/resource/sample-ejb-calculatorEJB/sample-ejb-calculatorEJB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

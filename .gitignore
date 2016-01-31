@@ -1,0 +1,5 @@
+/build/**
+
+sample-ejb-calculatorEJB/build/**
+sample-ejb-calculatorSeClient/build/**
+sample-ejb-calculatorWeb/build/**
