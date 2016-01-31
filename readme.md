@@ -38,7 +38,7 @@ public interface CalculatorRemote {
  	int divide(int a) throws CaclulatorException;
 
   /**
-   * Gibt eine Liste mit allen bisherigen Operationen des Objects zurück
+   * Gibt eine Liste mit allen bisherigen Operationen des Rechners zurück
    */
  	List<String> getProtocol();
 

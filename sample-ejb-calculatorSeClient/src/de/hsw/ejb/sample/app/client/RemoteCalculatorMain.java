@@ -5,6 +5,12 @@ import javax.naming.NamingException;
 
 import de.hsw.ejb.sample.calulator.RecordingCalculatorRemote;
 
+/**
+ * Baut eine verbindung zu dem lokalen EBJ-Container auf und nutzt verschiedene Instanzen des 
+ * RecordingCalculatorRemote-Interface
+ * 
+ * @author Malte Wildt
+ */
 public class RemoteCalculatorMain {
 	
 	public static void main(String args[]) throws NamingException{
