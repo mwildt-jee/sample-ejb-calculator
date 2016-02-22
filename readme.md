@@ -49,7 +49,7 @@ public interface CalculatorRemote {
 2 ) Erweitern Sie ihre Webanwendung um ein Formular zur Nutzung eines RecordingCalculators. Was muss passieren, wenn der Rechner zurückgesetzt werden soll?
 
 3) Erstellen Sie eine weitere Java-SE-Anwendung welche verschiedene Instanzen des
-`RecordingCalculator` nutzt. Was passiert im EBJ-Container wenn eine neue Referenz angefordert wird.
+`RecordingCalculator` nutzt. Was passiert im EBJ-Container wenn eine neue Referenz angefordert wird?
 
 ## Technische Hinweise zum Projekt
 
