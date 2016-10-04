@@ -3,8 +3,6 @@
 	<name>sample-ejb-calculator</name>
 	<comment></comment>
 	<projects>
-		<project>sample-ejb-calculatorWeb</project>
-		<project>sample-ejb-calculatorEJB</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
